@@ -1,6 +1,6 @@
 ## **Rock Paper Scissors Game**
 
-This is a simple and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Players can compete against a computer opponent, and the game keeps track of scores while displaying real-time messages about the results of each round.
+This is a simple and interactive **Rock Paper Scissors** game built using **HTML**, **CSS**, and **JavaScript**. Players can compete against a computer opponent, and the game keeps track of scores while displaying real-time messages about the results of each round
 
 ### **Features**
 - User-friendly interface with clickable icons for Rock, Paper, and Scissors.
